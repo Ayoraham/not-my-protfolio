@@ -1,6 +1,6 @@
 # Personal Portfolio – Abdulahi Oyebanji
 
-A modern, responsive personal portfolio built with **React** to showcase my projects, skills, and experience as a Computer Science student and aspiring AI / Software Engineer.
+A modern, responsive personal portfolio showcasing my projects, skills, education, and experience as a Computer Science student and AI/ML engineer.
 
 ## 🌐 Live Preview
 
@@ -14,16 +14,18 @@ https://abdulahi-oyebanji.vercel.app/
 This portfolio highlights:
 - My background in Computer Science
 - Featured technical projects
-- Skills 
+- AI/ML research and open-source work
+- Education and certifications
+- Skills
 - Leadership and mentorship experience
 
 Designed with a **dark, modern UI** and smooth responsive layout for desktop and mobile.
 
 ## 🛠 Tech Stack
 
-- **React**
+- **HTML**
 - **JavaScript**
-- **CSS **
+- **CSS**
 - **Vercel** (deployment)
 
 ## 🚀 Running Locally
@@ -32,13 +34,10 @@ If you want to run this project locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/abdulahi-banji/Personal-Portfolio.git
 
 # Navigate into the project
-cd your-repo-name
+cd Personal-Portfolio
 
-# Install dependencies
-npm install
-
-# Start development server
-npm run dev
+# Start a static development server
+python3 -m http.server 8000
