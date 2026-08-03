@@ -1,35 +1,44 @@
-# Abdulahi Oyebanji — Portfolio
+# Personal Portfolio – Abdulahi Oyebanji
 
-Personal portfolio for Abdulahi Oyebanji, a computer science student focused on AI/ML, computer vision, edge AI, open source, and full-stack developer tools.
+A modern, responsive personal portfolio built with **React** to showcase my projects, skills, and experience as a Computer Science student and aspiring AI / Software Engineer.
 
-## Live site
+## 🌐 Live Preview
 
-[abdulahi-oyebanji.vercel.app](https://abdulahi-oyebanji.vercel.app/)
+👉 **View the live site:**  
+https://abdulahi-oyebanji.vercel.app/
 
-## Highlights
+> Deployed on Vercel — no installation required.
 
-- PyTorch/TorchAO open-source contribution
-- Edge-AI robotics research at SAIRI, Morgan State University
-- Cornell Tech Break Through Tech AI fellowship
-- InnovAIte Academy hackathon project
-- AgentTrace LLM workflow observability dashboard
-- Education, certifications, technical skills, and contact details
+## 🧠 About
 
-## Tech stack
+This portfolio highlights:
+- My background in Computer Science
+- Featured technical projects
+- Skills 
+- Leadership and mentorship experience
 
-- Semantic HTML
-- Modern responsive CSS
-- Vanilla JavaScript
-- Vercel
+Designed with a **dark, modern UI** and smooth responsive layout for desktop and mobile.
 
-## Run locally
+## 🛠 Tech Stack
 
-No build step is required. Clone the repository and serve the directory with any static file server:
+- **React**
+- **JavaScript**
+- **CSS **
+- **Vercel** (deployment)
+
+## 🚀 Running Locally
+
+If you want to run this project locally:
 
 ```bash
-git clone https://github.com/abdulahi-banji/Personal-Portfolio.git
-cd Personal-Portfolio
-python3 -m http.server 8000
-```
+# Clone the repository
+git clone https://github.com/your-username/your-repo-name.git
 
-Then open `http://localhost:8000`.
+# Navigate into the project
+cd your-repo-name
+
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
