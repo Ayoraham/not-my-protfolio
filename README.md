@@ -1,4 +1,4 @@
-# Personal Portfolio – Abdulahi Oyebanji
+# Personal Portfolio – Abdurrahman Wahab
 
 A modern, responsive personal portfolio showcasing my projects, skills, education, and experience as a Computer Science student and AI/ML engineer.
 
